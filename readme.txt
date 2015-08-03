@@ -2,7 +2,7 @@
 Contributors: eliacom
 Donate Link: http://www.eliacom.com/mysql-gui-buy.php
 Tags: database,sql,phpMyAdmin,mysql,database administration,DBA,query,database management,forms,table,adminer,heidiSQL
-Requires at least: 2.8 or higher
+Requires at least: 2.8
 Tested up to: 4.3.alpha-32456
 Stable Tag: 1.0.0
 License: GPLv2 or later
