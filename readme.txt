@@ -107,11 +107,11 @@ Find the table in the table manager in the tree on the left. Click on it. A tab 
 == Changelog ==
 
 = 1.0.1 (2015/7/8) =
-*Updated instructions to make them clearer
-*Fixed issue with directory path due to a case issue
+* Updated instructions to make them clearer
+* Fixed issue with directory path due to a case issue
 
 = 1.0.0 (2015/6/29) =
-*First Version of Enhanced SQL Portal Bridge
+* First Version of Enhanced SQL Portal Bridge
 
 == Upgrade Notice == 
 
