@@ -115,6 +115,9 @@ Find the table in the table manager in the tree on the left. Click on it. A tab 
 
 == Upgrade Notice == 
 
-= 1.0.0 =
+= 1.0.1 = 
+Updated instructions to be more clear
 
+= 1.0.0 =
 First version of the ESP Bridge
+
