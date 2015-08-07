@@ -3,7 +3,7 @@
 * Plugin Name: Enhanced SQL Portal Bridge
 * Plugin URI: http://www.eliacom.com/mysql-gui-download.php
 * Description: This plugin is used to login to ESP System
-* Version 1.0.0
+* Version: 1.0.0
 * Author: David Flammer, Robert Ariniello, and JJ Baker
 * Author URI: http://www.eliacom.com/mysql-gui-index.php
 * License: MIT

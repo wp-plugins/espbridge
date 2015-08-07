@@ -2,9 +2,9 @@
 Contributors: eliacom
 Donate Link: http://www.eliacom.com/mysql-gui-buy.php
 Tags: database,sql,phpMyAdmin,mysql,database administration,DBA,query,database management,forms,table,adminer,heidiSQL
-Requires at least: 2.8 or higher
-Tested up to: 4.3.alpha-32456
-Stable Tag: 1.0.0
+Requires at least: 2.8
+Tested up to: 4.3
+Stable Tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -59,9 +59,13 @@ That Admin Manager allows you to export single or multiple databases or single o
 
 Beyond that, ESP has several other apps that can be added to your system to add functionality.
 
+= How do I export my database? =
+
+Go to the Admin Manager App in ESP. In the 'Database Setup' tab, there is a 'Dump Current Database' option. Clicking on this will pop up a page with dumping options. Choose any/all tables that you want to dump and hit submit. This will download a zip file with the mysql dump in it. 
+
 = What are the system requirements to use this bridge and/or ESP? = 
 
-The Enhanced SQL Portal is well tested on linux servers with MySQL 5.x, and PHP 5.x (greater than 5.3). IT requires PHP PDO_MySQL or PHP MySQLi. While not well tested, it should work with Windows-type servers such as WAMP.
+The Enhanced SQL Portal is well tested on linux servers with MySQL 5.x, and PHP 5.x (greater than 5.3). IT requires PHP PDO_MySQL or PHP MySQLi. While not well tested, it should work with Windows-type servers such as WAMP. To export your database or database tables, the server must have mysqldump installed and available from the command line.
 
 = How can I access a different database with the ESP system =
 
